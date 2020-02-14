@@ -29,8 +29,7 @@ This mod requires extra permissions to work because otherwise it cannot run the 
 Because of this you must enable unsafe mods in the noita mod menu.
 You can find the toggle on the right side of the screen.
 
-If the fact that the mod requires extra permissions scares you, the nodejs server the mod uses is packed into a executable using pkg for easy installation however it is completely open source so if you want to take a look at the source code to make sure there is no malicious code feel free:
-https://github.com/EvaisaGiac/noita-twitch-link
+If the fact that the mod requires extra permissions scares you, the nodejs server the mod uses is packed into a executable using pkg for easy installation however it is completely open source so if you want to take a look at the source code to make sure there is no malicious code feel free.
 
 If you want to disable any events that you do not like all you have to do is navigate to:
 **mods/twitch_link/twitch_fragments/events/** 
