@@ -5,7 +5,7 @@ Your viewers get to decide your fate and get help you or work against you. (We a
 **[Warning, this mod requires Goki's things to function it can be downloaded from steam workshop or at the link below!]**
 https://github.com/gokiburikin/gkbrkn_noita/releases
 
------
+
 # Features
 
 The mod includes:
@@ -18,7 +18,6 @@ The mod includes:
 
 
 
------
 # Installation
 Grab a release copy from the releases page:
 https://github.com/EvaisaGiac/noita-twitch-link/releases
