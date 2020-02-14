@@ -1,0 +1,29 @@
+{
+  "twitch_username": "evaisie",
+  
+  "vote_time": 10,
+  "event_vote_interval": 10,
+  "event_vote_timeout_rounds": 3,
+  "event_vote_priority": true,
+  "loadout_vote": true,
+  "loadout_time": 30,
+  "random_on_no_votes": true,
+  "perk_vote_enabled": false,
+  
+  "elite_names": true,
+  "elite_only_once": false,
+  "elite_name_timeout": 60,
+  "elite_chance": 50,
+  
+  "miniboss_names": true,
+  "miniboss_only_once": false,
+  "miniboss_name_timeout": 60,
+  "miniboss_chance": 100,
+  
+  "disabled_events": [
+  ],
+  
+  "vote_lasting_events": [
+    
+  ]
+}

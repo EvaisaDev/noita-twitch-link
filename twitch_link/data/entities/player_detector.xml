@@ -1,0 +1,56 @@
+<Entity tags="player_detector" >	
+	
+	<LuaComponent
+		script_source_file="data/entities/detect_nearby_player.lua"
+		execute_on_added="1"
+		execute_every_n_frame="1"
+		execute_times="-1" >
+	</LuaComponent>
+	
+	<SpriteComponent 
+		_tags="enabled_in_world,character" 
+		alpha="1" 
+		image_file="data/buildings_gfx/perk_reroll.png" 
+		next_rect_animation="" 
+		rect_animation="" 
+		offset_x="10"
+		offset_y="40"
+		z_index="20" >
+	</SpriteComponent>
+
+		<ParticleEmitterComponent
+			_tags="fire"
+    		_enabled="0"
+			offset.y="2"
+			offset.x="7.5"
+			x_pos_offset_min="-3"
+			x_pos_offset_max="2" 
+			emitted_material_name="spark_green"
+			>
+		</ParticleEmitterComponent>
+  
+		<ParticleEmitterComponent
+			_tags="fire"
+    		_enabled="0"
+			offset.y="2"
+			offset.x="7.5"
+			x_pos_offset_min="-4"
+			x_pos_offset_max="1" 
+			color="ff20f050"
+			emitted_material_name="spark_green"
+			>
+		</ParticleEmitterComponent>
+		
+		<ParticleEmitterComponent
+			_tags="fire"
+    		_enabled="0"
+			offset.y="2"
+			offset.x="7.5"
+			x_pos_offset_min="-3"
+			x_pos_offset_max="2" 
+			emitted_material_name="spark_green"
+			>
+		</ParticleEmitterComponent>	
+	
+</Entity>
+

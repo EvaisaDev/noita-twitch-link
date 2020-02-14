@@ -1,0 +1,4 @@
+data/entities/animals/duck/ragdolls/1.png
+data/entities/animals/duck/ragdolls/2.png
+data/entities/animals/duck/ragdolls/3.png
+data/entities/animals/duck/ragdolls/4.png

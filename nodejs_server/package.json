@@ -1,0 +1,21 @@
+{
+  "name": "noita-twitch-integration",
+  "version": "0.0.1",
+  "description": "Noita Twitch Integration",
+  "main": "twitch-main.js",
+  "author": "evaisa",
+  "license": "MIT",
+  "dependencies": {
+    "console-title": "^1.1.0",
+    "dotenv": "^5.0.1",
+    "open": "^7.0.0",
+    "polka": "^0.5.2",
+    "request-promise": "^4.2.5",
+    "serve-static": "^1.14.1",
+    "tmi.js": "^1.4.2",
+    "winston": "^3.2.1",
+    "ws": "^5.1.0",
+    "xterm": "^4.2.0-vscode1",
+    "xterm-addon-fit": "^0.3.0"
+  }
+}
